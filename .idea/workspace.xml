@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59227ff6-44bf-48c4-b6fb-be978e21e20d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Y2d4Du4vCy1B7axEx10yOFAYzc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="271" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="430" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.juicecode.Index" />
+      <module name="office-mailer-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.juicecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Index" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59227ff6-44bf-48c4-b6fb-be978e21e20d" name="Default Changelist" comment="" />
+      <created>1582144429361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582144429361</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="190" width="811" height="669" key="#Project_Structure" timestamp="1582144442107">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="190" width="811" height="669" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1582144442107" />
+    <state x="995" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1582225968209">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="653" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1582153759981" />
+    <state x="995" y="248" key="#com.intellij.ide.util.MemberChooser/2560.729.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1582225968209" />
+    <state x="1053" y="281" width="885" height="619" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1582226183943">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="691" y="273" width="885" height="619" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582147358040" />
+    <state x="1053" y="281" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/2560.729.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1582226183943" />
+    <state x="779" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582224828485">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="511" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582154506458" />
+    <state x="779" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/2560.729.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1582224828485" />
+    <state width="2518" height="374" key="GridCell.Tab.0.bottom" timestamp="1582225607570">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1582154079564" />
+    <state width="2518" height="374" key="GridCell.Tab.0.bottom/2560.729.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1582225607570" />
+    <state width="2518" height="374" key="GridCell.Tab.0.center" timestamp="1582225607568">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1582154079555" />
+    <state width="2518" height="374" key="GridCell.Tab.0.center/2560.729.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1582225607568" />
+    <state width="2518" height="374" key="GridCell.Tab.0.left" timestamp="1582225607566">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1582154079554" />
+    <state width="2518" height="374" key="GridCell.Tab.0.left/2560.729.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1582225607566" />
+    <state width="2518" height="374" key="GridCell.Tab.0.right" timestamp="1582225607569">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582154079556" />
+    <state width="2518" height="374" key="GridCell.Tab.0.right/2560.729.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1582225607569" />
+    <state width="2518" height="374" key="GridCell.Tab.1.bottom" timestamp="1582225607579">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1582149185525" />
+    <state width="2518" height="374" key="GridCell.Tab.1.bottom/2560.729.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1582225607579" />
+    <state width="2518" height="374" key="GridCell.Tab.1.bottom/2560.752.1440.877/0.0.2560.1080@0.0.2560.1080" timestamp="1582225355578" />
+    <state width="2518" height="374" key="GridCell.Tab.1.center" timestamp="1582225607572">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1582149185524" />
+    <state width="2518" height="374" key="GridCell.Tab.1.center/2560.729.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1582225607572" />
+    <state width="2518" height="374" key="GridCell.Tab.1.center/2560.752.1440.877/0.0.2560.1080@0.0.2560.1080" timestamp="1582225355576" />
+    <state width="2518" height="374" key="GridCell.Tab.1.left" timestamp="1582225607571">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1582149185523" />
+    <state width="2518" height="374" key="GridCell.Tab.1.left/2560.729.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1582225607571" />
+    <state width="2518" height="374" key="GridCell.Tab.1.left/2560.752.1440.877/0.0.2560.1080@0.0.2560.1080" timestamp="1582225355575" />
+    <state width="2518" height="374" key="GridCell.Tab.1.right" timestamp="1582225607572">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582149185524" />
+    <state width="2518" height="374" key="GridCell.Tab.1.right/2560.729.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1582225607572" />
+    <state width="2518" height="374" key="GridCell.Tab.1.right/2560.752.1440.877/0.0.2560.1080@0.0.2560.1080" timestamp="1582225355577" />
+    <state x="520" y="169" key="SettingsEditor" timestamp="1582226576359">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1582148101579" />
+    <state x="520" y="169" key="SettingsEditor/2560.729.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1582226576359" />
+    <state x="520" y="169" key="SettingsEditor/2560.752.1440.877/0.0.2560.1080@0.0.2560.1080" timestamp="1582226116886" />
+    <state x="517" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1582148647063">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="517" y="354" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582148647063" />
+    <state x="517" y="369" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1582144432995" />
+    <state x="849" y="497" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582226177991">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="557" y="483" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1680.1050@0.0.1680.1050" timestamp="1582147335763" />
+    <state x="849" y="497" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/2560.729.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1582226177991" />
+    <state x="596" y="413" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" timestamp="1582150994393">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="596" y="413" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582150994393" />
+    <state x="217" y="147" key="new project wizard" timestamp="1582147089762">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="217" y="147" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1582147089762" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1582154402831">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1582154402831" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/juicecode/EditableToggler.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="component.set" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
