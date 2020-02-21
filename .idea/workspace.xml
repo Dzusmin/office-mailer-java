@@ -100,9 +100,10 @@
     </state>
     <state x="511" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582154506458" />
     <state x="779" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/2560.729.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1582224828485" />
-    <state x="1437" y="142" key="CommitChangelistDialog2" timestamp="1582236683970">
-      <screen x="0" y="0" width="2560" height="1080" />
+    <state x="928" y="138" key="CommitChangelistDialog2" timestamp="1582326182715">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state x="928" y="138" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1582326182715" />
     <state x="1437" y="142" key="CommitChangelistDialog2/2560.729.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1582236683970" />
     <state width="2518" height="374" key="GridCell.Tab.0.bottom" timestamp="1582233765463">
       <screen x="0" y="0" width="2560" height="1080" />
@@ -154,6 +155,10 @@
     <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1582148101579" />
     <state x="520" y="169" key="SettingsEditor/2560.729.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1582226576359" />
     <state x="520" y="169" key="SettingsEditor/2560.752.1440.877/0.0.2560.1080@0.0.2560.1080" timestamp="1582226116886" />
+    <state x="778" y="265" key="Vcs.Push.Dialog.v2" timestamp="1582326183955">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="778" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1582326183955" />
     <state x="788" y="394" key="com.intellij.ide.util.TipDialog" timestamp="1582234584422">
       <screen x="0" y="23" width="2560" height="1057" />
     </state>
@@ -170,10 +175,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="596" y="413" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582150994393" />
-    <state width="600" height="424" key="javadoc.popup" timestamp="1582326163199">
+    <state width="600" height="424" key="javadoc.popup" timestamp="1582326192962">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="600" height="424" key="javadoc.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1582326163199" />
+    <state width="600" height="424" key="javadoc.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1582326192962" />
     <state x="217" y="147" key="new project wizard" timestamp="1582147089762">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
