@@ -29,8 +29,20 @@ public class Index {
     public Index() {
         fc = new JFileChooser();
 
-        EditableToggler mailContentToggler = new EditableToggler(sameContentRadioButton, mailContentTextArea, subjectTextField);
-        SendMail sendMail = new SendMail();
+        EditableToggler mailContentToggler = new EditableToggler(
+                sameContentRadioButton,
+                mailContentTextArea,
+                subjectTextField
+        );
+
+        SendButtonActionListener sendButtonActionListener = new SendButtonActionListener(
+                fromTextField,
+                fromPasswordField,
+                hostTextField,
+                portTextField,
+                filePathTextField,
+                mailContentToggler
+        );
 
         chooseFileButton.addActionListener(new ActionListener() {
             @Override
@@ -57,7 +69,7 @@ public class Index {
 
         sameContentRadioButton.addItemListener(mailContentToggler);
         secondColumnRadioButton.addItemListener(mailContentToggler);
-        sendButton.addActionListener(sendMail);
+        sendButton.addActionListener(sendButtonActionListener);
     }
 
     public static void main(String[] args) {
