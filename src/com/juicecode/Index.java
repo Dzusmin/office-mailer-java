@@ -24,6 +24,7 @@ public class Index {
     private JTextField hostTextField;
     private JTextField portTextField;
     private JTextField subjectTextField;
+    private JTextArea outputTextArea;
 
 
     public Index() {
@@ -41,8 +42,12 @@ public class Index {
                 hostTextField,
                 portTextField,
                 filePathTextField,
-                mailContentToggler
+                mailContentToggler,
+                mailContentTextArea,
+                subjectTextField
         );
+
+        VisibleToggler visibleToggler = new VisibleToggler(fromPasswordField);
 
         chooseFileButton.addActionListener(new ActionListener() {
             @Override
@@ -56,17 +61,8 @@ public class Index {
             }
         });
 
-        checkPasswordCheckBox.addItemListener(new ItemListener() {
-            @Override
-            public void itemStateChanged(ItemEvent e) {
-                if (e.getStateChange() == ItemEvent.SELECTED) {
-                    fromPasswordField.setEchoChar((char) 0);
-                } else {
-                    fromPasswordField.setEchoChar((char) '•');
-                }
-            }
-        });
-
+        sameContentRadioButton.doClick();
+        checkPasswordCheckBox.addItemListener(visibleToggler);
         sameContentRadioButton.addItemListener(mailContentToggler);
         secondColumnRadioButton.addItemListener(mailContentToggler);
         sendButton.addActionListener(sendButtonActionListener);

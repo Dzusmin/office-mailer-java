@@ -24,13 +24,17 @@ public class MailingListReader {
         XSSFSheet sheet = workbook.getSheetAt(0);
         Iterator<Row> rowIterator = sheet.iterator();
 
-        Map<String, MailContent> mailingList = new HashMap<String, MailContent>();
+        Map<String, MailContent> mailingList = new HashMap<>();
         while (rowIterator.hasNext()) {
             Row row = rowIterator.next();
 
-            String to = row.getCell(1).getStringCellValue();
-            String subject = row.getCell(2).getStringCellValue();
-            String content = row.getCell(3).getStringCellValue();
+            if (row.getCell(0).getStringCellValue().isEmpty()) {
+                return mailingList;
+            }
+
+            String to = row.getCell(0).getStringCellValue();
+            String subject = row.getCell(1).getStringCellValue();
+            String content = row.getCell(2).getStringCellValue();
 
             mailingList.put(to, new MailContent(subject, content));
         }

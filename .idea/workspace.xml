@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59227ff6-44bf-48c4-b6fb-be978e21e20d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/juicecode/MailContent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juicecode/MailingListReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juicecode/SendButtonActionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juicecode/VisibleToggler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/juicecode/Index.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juicecode/Index.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/juicecode/Index.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juicecode/Index.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/juicecode/MailingListReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juicecode/MailingListReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/juicecode/SendButtonActionListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juicecode/SendButtonActionListener.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/juicecode/SendMail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juicecode/SendMail.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +42,8 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="271" />
-    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="430" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="185" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -78,17 +80,29 @@
       <option name="presentableId" value="Default" />
       <updated>1582144429361</updated>
     </task>
+    <task id="LOCAL-00001" summary="It should work. Will be tested later">
+      <created>1582326182927</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582326182927</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="It should work. Will be tested later" />
+    <option name="LAST_COMMIT_MESSAGE" value="It should work. Will be tested later" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="190" width="811" height="669" key="#Project_Structure" timestamp="1582144442107">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="440" y="190" width="811" height="669" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1582144442107" />
-    <state x="653" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1582326062766">
+    <state x="653" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1582382564383">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="653" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1582326062766" />
+    <state x="653" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1582382564383" />
     <state x="995" y="248" key="#com.intellij.ide.util.MemberChooser/2560.729.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1582235229480" />
     <state x="1053" y="281" width="885" height="619" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1582226183943">
       <screen x="0" y="0" width="2560" height="1080" />
@@ -105,48 +119,56 @@
     </state>
     <state x="928" y="138" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1582326182715" />
     <state x="1437" y="142" key="CommitChangelistDialog2/2560.729.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1582236683970" />
-    <state width="2518" height="374" key="GridCell.Tab.0.bottom" timestamp="1582233765463">
-      <screen x="0" y="0" width="2560" height="1080" />
+    <state width="1638" height="362" key="GridCell.Tab.0.bottom" timestamp="1582664847360">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1582154079564" />
+    <state width="1638" height="362" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1582664847360" />
+    <state width="1638" height="285" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1582367491893" />
     <state width="2518" height="374" key="GridCell.Tab.0.bottom/2560.729.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1582233765463" />
-    <state width="2518" height="374" key="GridCell.Tab.0.center" timestamp="1582233765462">
-      <screen x="0" y="0" width="2560" height="1080" />
+    <state width="1638" height="362" key="GridCell.Tab.0.center" timestamp="1582664847358">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1582154079555" />
+    <state width="1638" height="362" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1582664847358" />
+    <state width="1638" height="285" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1582367491892" />
     <state width="2518" height="374" key="GridCell.Tab.0.center/2560.729.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1582233765462" />
-    <state width="2518" height="374" key="GridCell.Tab.0.left" timestamp="1582233765461">
-      <screen x="0" y="0" width="2560" height="1080" />
+    <state width="1638" height="362" key="GridCell.Tab.0.left" timestamp="1582664847358">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1582154079554" />
+    <state width="1638" height="362" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1582664847358" />
+    <state width="1638" height="285" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1582367491891" />
     <state width="2518" height="374" key="GridCell.Tab.0.left/2560.729.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1582233765461" />
-    <state width="2518" height="374" key="GridCell.Tab.0.right" timestamp="1582233765462">
-      <screen x="0" y="0" width="2560" height="1080" />
+    <state width="1638" height="362" key="GridCell.Tab.0.right" timestamp="1582664847359">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582154079556" />
+    <state width="1638" height="362" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582664847359" />
+    <state width="1638" height="285" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1582367491893" />
     <state width="2518" height="374" key="GridCell.Tab.0.right/2560.729.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1582233765462" />
-    <state width="2518" height="374" key="GridCell.Tab.1.bottom" timestamp="1582233765465">
-      <screen x="0" y="0" width="2560" height="1080" />
+    <state width="1638" height="362" key="GridCell.Tab.1.bottom" timestamp="1582664865296">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1582149185525" />
+    <state width="1638" height="362" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1582664865296" />
+    <state width="1638" height="362" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1582663617814" />
     <state width="2518" height="374" key="GridCell.Tab.1.bottom/2560.729.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1582233765465" />
     <state width="2518" height="374" key="GridCell.Tab.1.bottom/2560.752.1440.877/0.0.2560.1080@0.0.2560.1080" timestamp="1582225355578" />
-    <state width="2518" height="374" key="GridCell.Tab.1.center" timestamp="1582233765464">
-      <screen x="0" y="0" width="2560" height="1080" />
+    <state width="1638" height="362" key="GridCell.Tab.1.center" timestamp="1582664865295">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1582149185524" />
+    <state width="1638" height="362" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1582664865295" />
+    <state width="1638" height="362" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1582663617813" />
     <state width="2518" height="374" key="GridCell.Tab.1.center/2560.729.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1582233765464" />
     <state width="2518" height="374" key="GridCell.Tab.1.center/2560.752.1440.877/0.0.2560.1080@0.0.2560.1080" timestamp="1582225355576" />
-    <state width="2518" height="374" key="GridCell.Tab.1.left" timestamp="1582233765464">
-      <screen x="0" y="0" width="2560" height="1080" />
+    <state width="1638" height="362" key="GridCell.Tab.1.left" timestamp="1582664865294">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1582149185523" />
+    <state width="1638" height="362" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1582664865294" />
+    <state width="1638" height="362" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1582663617813" />
     <state width="2518" height="374" key="GridCell.Tab.1.left/2560.729.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1582233765464" />
     <state width="2518" height="374" key="GridCell.Tab.1.left/2560.752.1440.877/0.0.2560.1080@0.0.2560.1080" timestamp="1582225355575" />
-    <state width="2518" height="374" key="GridCell.Tab.1.right" timestamp="1582233765465">
-      <screen x="0" y="0" width="2560" height="1080" />
+    <state width="1638" height="362" key="GridCell.Tab.1.right" timestamp="1582664865295">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582149185524" />
+    <state width="1638" height="362" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582664865295" />
+    <state width="1638" height="362" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1582663617814" />
     <state width="2518" height="374" key="GridCell.Tab.1.right/2560.729.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1582233765465" />
     <state width="2518" height="374" key="GridCell.Tab.1.right/2560.752.1440.877/0.0.2560.1080@0.0.2560.1080" timestamp="1582225355577" />
     <state x="520" y="169" key="SettingsEditor" timestamp="1582226576359">
@@ -159,11 +181,11 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="778" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1582326183955" />
-    <state x="788" y="394" key="com.intellij.ide.util.TipDialog" timestamp="1582234584422">
-      <screen x="0" y="23" width="2560" height="1057" />
+    <state x="517" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1582662422332">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="517" y="354" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582148647063" />
-    <state x="517" y="369" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1582144432995" />
+    <state x="517" y="354" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582662422332" />
+    <state x="517" y="354" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1582366235387" />
     <state x="788" y="379" key="com.intellij.ide.util.TipDialog/2560.729.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1582233968280" />
     <state x="788" y="394" key="com.intellij.ide.util.TipDialog/2560.752.1440.877/0.23.2560.1057@0.23.2560.1057" timestamp="1582234584422" />
     <state x="849" y="497" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582226177991">
@@ -175,6 +197,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="596" y="413" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582150994393" />
+    <state x="578" y="285" key="extract.method.dialog" timestamp="1582382802434">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="285" key="extract.method.dialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582382802434" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1582326192962">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -189,10 +215,64 @@
     <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1582154402831" />
   </component>
   <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="component.set" language="JAVA" />
-      </configuration>
-    </watches-manager>
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/juicecode/SendMail.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/juicecode/SendMail.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/juicecode/SendMail.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/juicecode/SendMail.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/juicecode/SendMail.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/juicecode/MailingListReader.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/juicecode/MailingListReader.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/juicecode/MailingListReader.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/juicecode/MailingListReader.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/juicecode/MailingListReader.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/juicecode/MailingListReader.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
